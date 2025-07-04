@@ -13,7 +13,7 @@ websites and interfaces that convert.
 🌱 I’m currently learning Node.js and backend architecture  
 💬 Ask me about anything related to React, SCSS, or building responsive layouts  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roman-vytak/) | [Email](mailto:roman.vytak@gmail.com)  
-⚡ Fun fact: I love my family 👪, hiking in the mountains 🥾🏔️, and filter coffee ☕
+⚡ Fun fact: I love my family 👪, hiking in the mountains 🥾🏔️, and coffee ☕
 
 ## 🛠️ Tools I Use & Technologies My Team Covers
 
