@@ -15,7 +15,7 @@ websites and interfaces that convert.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roman-vytak/) | [Email](mailto:roman.vytak@gmail.com)  
 ⚡ Fun fact: I love mountain biking and filter coffee ☕🚴
 
-## 💼 Agency Tech Stack (PlumPix):
+## 🛠️ Tools I Use & Technologies My Team Covers:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
