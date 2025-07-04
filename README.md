@@ -65,7 +65,7 @@ Mobile-first approach, cross-browser compatibility, pixel-perfect layouts, smoot
 <!-- Tooling -->
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
 ## 📊 GitHub Stats
 
