@@ -15,7 +15,21 @@ websites and interfaces that convert.
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roman-vytak/) | [Email](mailto:roman.vytak@gmail.com)  
 ⚡ Fun fact: I love mountain biking and filter coffee ☕🚴
 
-## 🛠️ Tools I Use & Technologies My Team Covers:
+## 🛠️ Tools I Use & Technologies My Team Covers
+
+### 🖥️ Frontend Development
+React.js, Vue.js, Redux, JavaScript (ES6+), TypeScript, Next.js, HTML5, CSS3, Web Animations
+
+### ⚙️ Backend Development
+Python (Django, Django Admin, Django REST Framework, Flask), Node.js, PHP (Laravel, Symfony), GraphQL, RESTful APIs, PostgreSQL, Airflow, pytest
+
+### 🧩 CMS & Platform Development
+WordPress (custom themes, plugins, performance optimization)
+
+### 📱 Responsive & UI/UX Design
+Mobile-first approach, cross-browser compatibility, pixel-perfect layouts, smooth animations
+
+### 🚀 Tech Stack Overview
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -31,7 +45,6 @@ websites and interfaces that convert.
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 
 ## 📊 GitHub Stats
 
