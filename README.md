@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-I'm **RomanVytak** — a front-end developer passionate about clean UI, TypeScript,  
-and building great user experiences with modern web tools.  
+I'm **RomanVytak** — a front-end developer passionate about clean UI, TypeScript, and building  
+great user experiences with modern web tools.  
 I'm also the **Co-founder & CEO of [PlumPix](https://www.plumpix.io/)** — a digital agency  
 that builds high-quality websites and interfaces that convert.
 
