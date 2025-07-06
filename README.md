@@ -9,9 +9,8 @@ websites and interfaces that convert.
 
 💻 Front-end developer focused on React & Next.js  
 🔭 I’m currently working on commercial projects  
-👯 I’m looking to collaborate with other front-end developers  
-🌱 I’m currently learning Node.js and backend architecture  
-💬 Ask me about anything related to React, SCSS, or building responsive layouts  
+👯 I’m looking to collaborate with other developers  
+💬 Have a project in mind? I can help bring it to life!  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roman-vytak/) | [Email](mailto:roman.vytak@gmail.com)  
 ⚡ Fun fact: I love my family 👪, hiking in the mountains 🥾🏔️, and coffee ☕
 
