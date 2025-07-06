@@ -48,14 +48,6 @@ websites and interfaces that convert.
 
 ![RomanVytak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomanVytak&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RomanVytak&theme=tokyonight&hide_border=true)
-
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanVytak&layout=compact&theme=tokyonight&langs_count=6&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=RomanVytak&theme=tokyonight&no-frame=true&column=4)
